@@ -1,0 +1,15 @@
+.box li {
+  color: blue;
+}
+
+.box,
+h1, ul {
+  text-transform: lowercase;
+  border: 5px solid blueviolet;
+}
+
+#artists>ol {
+  padding: 15px;
+}
+
+
