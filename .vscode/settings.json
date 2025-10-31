@@ -15,11 +15,12 @@
   "files.insertFinalNewline": true,
   "files.trimTrailingWhitespace": true,
   "stylelint.enable": true,
-  "workbench.colorTheme": "Material Theme",
+  "workbench.colorTheme": "Shades of Purple",
   "workbench.enableExperiments": false,
   "workbench.iconTheme": "material-icon-theme",
   "workbench.view.alwaysShowHeaderActions": true,
   "editor.rulers": [
       100, 120
-  ]
+  ],
+  "livePreview.defaultPreviewPath": "/week4/4.2/index.html"
 }
